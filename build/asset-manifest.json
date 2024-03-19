@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Collaborative-Whiteboard/static/css/main.27e24a67.css",
+    "main.js": "/Collaborative-Whiteboard/static/js/main.020dd70c.js",
+    "static/js/787.b5554702.chunk.js": "/Collaborative-Whiteboard/static/js/787.b5554702.chunk.js",
+    "static/media/logo.svg": "/Collaborative-Whiteboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Collaborative-Whiteboard/index.html",
+    "main.27e24a67.css.map": "/Collaborative-Whiteboard/static/css/main.27e24a67.css.map",
+    "main.020dd70c.js.map": "/Collaborative-Whiteboard/static/js/main.020dd70c.js.map",
+    "787.b5554702.chunk.js.map": "/Collaborative-Whiteboard/static/js/787.b5554702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e24a67.css",
+    "static/js/main.020dd70c.js"
+  ]
+}
